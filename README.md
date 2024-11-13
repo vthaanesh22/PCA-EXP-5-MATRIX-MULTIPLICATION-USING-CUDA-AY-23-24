@@ -1,5 +1,5 @@
 # PCA-EXP-5-MATRIX-MULTIPLICATION-USING-CUDA-AY-23-24
-<h3>AIM:To perform Matrix Multiplication using CUDA and check its performance with nvprof.</h3>
+
 <h3>ENTER YOUR NAME: THAANESH V</h3>
 <h3>ENTER YOUR REGISTER NO: 212223230228</h3>
 <h3>EX.NO:5</h3>
